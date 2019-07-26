@@ -11,4 +11,4 @@ The first player to score 100 or more points wins.
 <a href="http://github.com/emmanuelkamala">Emmanuel Kamala</a>
 
 # Live Version
-<a href="#">Live Version</a>
+<a href="https://emmanuelkamala.github.io/pig-game/">Live Version</a>
