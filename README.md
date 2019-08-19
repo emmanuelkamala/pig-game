@@ -8,6 +8,9 @@ Each turn, a player repeatedly rolls a dice until either a 1 is rolled or the pl
   </ul>
 The first player to score 100 or more points wins.
 
+# Technology Used
+HTML, CSS  and Javascript
+
 # Contributor
 <a href="http://github.com/emmanuelkamala">Emmanuel Kamala</a>
 
