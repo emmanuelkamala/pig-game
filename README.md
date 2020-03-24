@@ -10,7 +10,7 @@ Each turn, a player repeatedly rolls a dice until either a 1 is rolled or the pl
   </ul>
 The first player to score 100 or more points wins.
 
-![screenshot](https://github.com/emmanuelkamala/pig-game/docs/pig.png)
+![screenshot](https://github.com/emmanuelkamala/pig-game/blob/master/docs/pig.png)
 
 
 Additional description about the project and its features.
