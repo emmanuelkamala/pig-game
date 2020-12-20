@@ -38,13 +38,13 @@ Clone the repo and then find the index.html file and open it
 
 
 
-## Authors
+## Author
 
 👤 **Author**
 
 - Github: [@githubhandle](https://github.com/emmanuelkamala)
 - Twitter: [@twitterhandle](https://twitter.com/ejkamala)
-- Linkedin: [linkedin](https://linkedin.com/emmanuelkamala)
+- Linkedin: [linkedin](https://linkedin.com/in/emmanuelkamala)
 
 
 
